@@ -3,7 +3,7 @@ Simple Login System
 
 A simple login system developed with Node.js, MySQL, Express, jQuery, Bootstrap.
 
-![s](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/722/665/datas/gallery.jpg)
+![s](https://raw.githubusercontent.com/Merle-Zhang/LoginSystem/master/login.PNG)
 
 
 ## Try it out
